@@ -8,7 +8,7 @@ country-level distribution, and individual salesperson KPIs.
 ## 📊 Dashboard Pages
 
 ### 1. Executive Summary
-![Executive Summary](executive summary cosmetics data.PNG)
+!(executive summary cosmetics data.PNG)
 - **Total Revenue:** $2.91M | **Total Boxes Sold:** 93K
 - **Average Revenue:** $7.78K | **Top Country:** USA
 - Monthly revenue trend (Jan–Aug 2022)
