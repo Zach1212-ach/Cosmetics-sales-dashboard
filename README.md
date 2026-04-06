@@ -16,7 +16,7 @@ country-level distribution, and individual salesperson KPIs.
 - Sales performance comparison across 10 reps
 
 ### 2. Product Analysis
-![Product Analysis](images/product_analysis_2022.PNG)
+![Product Analysis](product_analysis.PNG)
 - **Top Product:** Tea Tree Moisturizer ($260.91K)
 - **15 products** analyzed with revenue ranking
 - Visual treemap and bar chart comparisons
