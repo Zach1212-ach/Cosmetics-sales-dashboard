@@ -8,7 +8,7 @@ country-level distribution, and individual salesperson KPIs.
 ## 📊 Dashboard Pages
 
 ### 1. Executive Summary
-!![Executive summary](executive_summary.PNG)
+![Executive summary](executive_summary.PNG)
 - **Total Revenue:** $2.91M | **Total Boxes Sold:** 93K
 - **Average Revenue:** $7.78K | **Top Country:** USA
 - Monthly revenue trend (Jan–Aug 2022)
@@ -23,7 +23,7 @@ country-level distribution, and individual salesperson KPIs.
 - Filter by individual salesperson
 
 ### 3. Salesperson Performance
-![Salesperson Performance](salesperson_performance.PNG)
+![Salesperson Performance](Salesperson_performance.PNG)
 - **Top Performer:** Olivia D'Souza ($387.41K)
 - **Avg Revenue per Person:** $290.91K
 - Geographic sales mapping
