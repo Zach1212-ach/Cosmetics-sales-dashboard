@@ -8,7 +8,7 @@ country-level distribution, and individual salesperson KPIs.
 ## 📊 Dashboard Pages
 
 ### 1. Executive Summary
-![Executive Summary](images/executive_summary.png)
+[Executive Summary](images/executive_summary.png)
 - **Total Revenue:** $2.91M | **Total Boxes Sold:** 93K
 - **Average Revenue:** $7.78K | **Top Country:** USA
 - Monthly revenue trend (Jan–Aug 2022)
@@ -16,14 +16,14 @@ country-level distribution, and individual salesperson KPIs.
 - Sales performance comparison across 10 reps
 
 ### 2. Product Analysis
-![Product Analysis](images/product_analysis_2022.png)
+[Product Analysis](images/product_analysis_2022.png)
 - **Top Product:** Tea Tree Moisturizer ($260.91K)
 - **15 products** analyzed with revenue ranking
 - Visual treemap and bar chart comparisons
 - Filter by individual salesperson
 
 ### 3. Salesperson Performance
-![Salesperson Performance](images/salesperson_performance.png)
+[Salesperson Performance](images/salesperson_performance.png)
 - **Top Performer:** Olivia D'Souza ($387.41K)
 - **Avg Revenue per Person:** $290.91K
 - Geographic sales mapping
